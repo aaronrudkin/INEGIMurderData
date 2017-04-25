@@ -26,9 +26,9 @@ def transcode(fix_text):
 					continue
 
 				for m in xrange(3, 15):
-					murders = 0
+					murders = str(0)
 					if r[m]:
-						murders = r[m]
+						murders = str(int(r[m].replace(",","")))
 
 					if fix_text:
 						city = unidecode.unidecode(r[1].strip().decode("iso-8859-1"))

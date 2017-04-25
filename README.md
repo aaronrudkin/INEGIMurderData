@@ -1,10 +1,10 @@
 # INEGI Murder Data
 
-Monthly city-level murder data from [p/proyectos/bd/continuas/mortalidad/defuncioneshom.asp?s=est](INEGI (Mexico)). 
+Monthly city-level murder data from [p/proyectos/bd/continuas/mortalidad/defuncioneshom.asp?s=est](INEGI (Mexico)) from 1990-2015.
 
 ## Contents
 
-Data is available in `out.csv`; the same data with non-roman characters removed from city and state names are in `out-fixed.csv`.
+Data is available in `out.csv`; the same data with non-roman characters removed from city and state names are in `out-fixed.csv`. Each file consists of 448,249 observations.
 
 The annual CSVs and Python code for the crosswalk are in `raw_source/`
 
@@ -24,4 +24,3 @@ The annual CSVs and Python code for the crosswalk are in `raw_source/`
 | 1990 | 10 | 01 001 | Aguascalientes | Aguascalientes | 2 |
 | 1990 | 11 | 01 001 | Aguascalientes | Aguascalientes | 5 |
 | 1990 | 12 | 01 001 | Aguascalientes | Aguascalientes | 2 |
-
