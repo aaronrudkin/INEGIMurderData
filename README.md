@@ -1,6 +1,6 @@
 # INEGI Murder Data
 
-Monthly city-level murder data from [p/proyectos/bd/continuas/mortalidad/defuncioneshom.asp?s=est](INEGI (Mexico)) from 1990-2015.
+Monthly city-level murder data from [INEGI (Mexico)](http://www.inegi.org.mx/sistemas/olap/proyectos/bd/continuas/mortalidad/defuncioneshom.asp?s=est) from 1990-2015.
 
 ## Contents
 
